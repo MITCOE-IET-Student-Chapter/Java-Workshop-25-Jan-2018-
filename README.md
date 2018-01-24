@@ -22,6 +22,13 @@ To install `open-jdk`, fire the following command,
 
 Head on to [Oracle's website](http://www.oracle.com/technetwork/java/javase/downloads/jdk9-downloads-3848520.html), and download the `Windows` Package for your architecture.
 
+# Running your Java program
+
+1. To run your Java program, make sure that the parent class has the same name as that of the file. e.g. If `Class Hello` is your parent class, make sure you name your file `Hello.java`
+2. Compile the `.java` file by firing command, `javac Hello.java`, this will output you a   `.class` file of the same name, i.e., for our case, Java-Compiler will generate `Hello.class`
+3. To run the code, fire the command, `java Hello`. Remember to exclude `.class` extention.
+
+
 # Topics covered in Workshop
 
 1. Introduction to OOP and Java Basics, Running Java program, Java Data types and operators, Control structures
