@@ -6,5 +6,7 @@ e.g. An application can have a User Interface thread, but
 
 ## To run
 
-'''javac *.java
-java ThreadDemo'''
+'''shell
+javac *.java
+java ThreadDemo
+'''
