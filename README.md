@@ -37,5 +37,3 @@ Head on to [Oracle's website](http://www.oracle.com/technetwork/java/javase/down
 4. Methods Overiding, Overloading, Abstract Class And Methods
 5. Interfaces, Packages and Access Control, Exceptions
 6. Multithreaded Programming
-
-
