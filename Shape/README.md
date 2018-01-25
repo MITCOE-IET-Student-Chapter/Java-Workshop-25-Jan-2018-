@@ -10,7 +10,7 @@ Inheritance is the process of a sub class deriving properties and behavior i.e. 
 ## Overloading
 
 Function overloading is when the functions of the same class, use the same method name, but defer in the following:
-1. Return Type
-2. Number of Parameters
-3. Type of Parameters
-4. Order of Parameters
+1. **Return Type**
+2. **Number of Parameters**
+3. **Type of Parameters**
+4. **Order of Parameters**
