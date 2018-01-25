@@ -1,4 +1,4 @@
-# Java Programming Workshop
+# Java Programming Workshop  :blue_book:
 
 Workshop conducted on 25th January 2018
 
