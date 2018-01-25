@@ -1,4 +1,4 @@
-# Core Java Programming 
+# Java Programming Workshop
 
 Workshop conducted on 25th January 2018
 
