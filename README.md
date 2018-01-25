@@ -4,13 +4,14 @@ Workshop conducted on 25th January 2018
 
 <img src="https://images.sftcdn.net/images/t_optimized,f_auto/p/2f4c04f4-96d0-11e6-9830-00163ed833e7/3163796423/java-runtime-environment-logo.png" width="250" height="250" align="center" />
 
-# Installation Instruction
+# Java Installation Instruction
 
 Check if you already have java installed by opening your terminal, and firing the following command
 
 `javac -version`
 
 ## Installation for Linux Users
+
 
 For linux user, it is recommended to install the open-source version of java `openjdk`, 
 
@@ -21,6 +22,21 @@ To install `open-jdk`, fire the following command,
 ## Installation for Windows Users
 
 Head on to [Oracle's website](http://www.oracle.com/technetwork/java/javase/downloads/jdk9-downloads-3848520.html), and download the `Windows` Package for your architecture.
+
+## Eclipse Installation Instruction
+
+### For Linux Users
+
+For Linux users, install **Eclipse Java Development**, run the command,
+
+`sudo apt-get install eclipse-jdt`
+
+This will *recursively* install **Eclipse Platform** along with the **Java Development Tools**.
+
+
+### For Windows Users
+
+Head on to [Eclipse Official Page to download the Platform for Java EE Developers](https://www.eclipse.org/downloads/packages/eclipse-ide-java-ee-developers/neon3)
 
 # Running your Java program
 
